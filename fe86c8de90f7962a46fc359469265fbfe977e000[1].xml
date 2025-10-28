@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <update throttle="100" rescan="1440" currentversion="25.189.0928.0002" maxapplicable="25.189.0928.0001" minapplicable="16.000.0000.0000" maxrandomdelay="360" absolutedelay="4320" useractivedelay="7" maxidlechecks="6">
+    <binary sha1hash="hf8ODiuMAE3OzKxGY/X9BJCcYXk=" sha256hash="9GlQ5ASZwyKV5nKON0WjrCuENFSgrEbmE1bo0ZyfE60=" url="https://oneclient.sfx.ms/Win/Installers/25.189.0928.0002/OneDriveSetup.exe" />
+    <amd64binary sha1hash="rLeHcuvPxCAst4E5Fzl8L3AThSI=" sha256hash="M0V1JvMnXoOGODQsEG6HW5h8WWjG/g9ghz9VVrKcoso=" url="https://oneclient.sfx.ms/Win/Installers/25.189.0928.0002/amd64/OneDriveSetup.exe" />
+    <arm64binary sha1hash="HqL7qcXJR+ZhdVhuMzxFY1c/z7I=" sha256hash="DrIeCZo2RfzMFoLivOdafwCuj+OuAknH7zxnQJD53cg=" url="https://oneclient.sfx.ms/Win/Installers/25.189.0928.0002/arm64/OneDriveSetup.exe" />
+    <amd64binarypatch sha256hash="1hJPzsFx9qk4+qP4l0gw4b00Ab5hmCEAJeHaX4yUojo=" url="https://oneclient.sfx.ms/Win/Patchuncompressed/25.184.0921.0004/25.189.0928.0002/amd64/OneDriveDeltaPatch.cab" baseversion="25.184.0921.0004" targethash="YlkY45Z/V2GzRArLdghkfYuDhquv2uCr8zTcwGNMUy4=" sourcecompressed="false" basehash="tXXUM7x42BGf2JI5egRy9rP14TxRgWA8vnDJH8ohKpM=" />
+    <amd64binarypatch sha256hash="K1OGYVJgZdrMQe0zN5W41BP8zuUYm0zYSCQqhYK4gmc=" url="https://oneclient.sfx.ms/Win/Patch/25.184.0921.0004/25.189.0928.0002/amd64/OneDriveDeltaPatch.cab" baseversion="25.184.0921.0004" targethash="YlkY45Z/V2GzRArLdghkfYuDhquv2uCr8zTcwGNMUy4=" sourcecompressed="true" basehash="vuweIGSTjZDPxhz0EOtSHulD1p6VCJKg5fWiQ0PlImY=" />
+  </update>
+  <update throttle="25" rescan="1440" currentversion="25.194.1005.0002" maxapplicable="25.999.9999.9999" minapplicable="16.000.0000.0000" maxrandomdelay="360" absolutedelay="4320" useractivedelay="7" maxidlechecks="6">
+    <binary sha1hash="+YbRxzrcdUotsE0XvVaGRdalj0A=" sha256hash="GRgUbI6rks2YMI5kE9uFqOXKneuxqDbHTUpZDOAm8Y8=" url="https://oneclient.sfx.ms/Win/Installers/25.194.1005.0002/OneDriveSetup.exe" />
+    <amd64binary sha1hash="2znf+GFQGeZa34RRBFpbdClu92s=" sha256hash="998jbzWQuYLIjiZWhGW3H2R23zLPVG5C2A+niTHyUAg=" url="https://oneclient.sfx.ms/Win/Installers/25.194.1005.0002/amd64/OneDriveSetup.exe" />
+    <arm64binary sha1hash="mW4iI0Wi4pYdd7+TQw/vHP4yMTc=" sha256hash="gPmv+rbxPv1bX4xqhpgsZcAYQIkOkFK7Pg+Fl1tD1xo=" url="https://oneclient.sfx.ms/Win/Installers/25.194.1005.0002/arm64/OneDriveSetup.exe" />
+    <amd64binarypatch sha256hash="ttQkn1YHo6p5L2RZWzK1x6HzxbF1qkAHGeLXMAqeTzU=" url="https://oneclient.sfx.ms/Win/Patchuncompressed/25.189.0928.0002/25.194.1005.0002/amd64/OneDriveDeltaPatch.cab" baseversion="25.189.0928.0002" targethash="CzNemWFuDRAuZyGIoYOPcrr/A6KBLt0flTjLQbTtN9o=" sourcecompressed="false" basehash="YlkY45Z/V2GzRArLdghkfYuDhquv2uCr8zTcwGNMUy4=" />
+    <amd64binarypatch sha256hash="VlIWmOGzjwiEQ8EdIqRmIdo8sklxJPK2C/m/HmXHITY=" url="https://oneclient.sfx.ms/Win/Patch/25.189.0928.0002/25.194.1005.0002/amd64/OneDriveDeltaPatch.cab" baseversion="25.189.0928.0002" targethash="CzNemWFuDRAuZyGIoYOPcrr/A6KBLt0flTjLQbTtN9o=" sourcecompressed="true" basehash="M0V1JvMnXoOGODQsEG6HW5h8WWjG/g9ghz9VVrKcoso=" />
+  </update>
+</root>
