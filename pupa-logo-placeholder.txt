@@ -1,0 +1,1 @@
+Colocá tu logo en /public como logo.png y reemplazalo en App si querés usar <img>.
